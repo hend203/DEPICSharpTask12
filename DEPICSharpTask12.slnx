@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="DEPICSharpTask12/LibrarySystem.csproj" />
+  <Project Path="ECommerceSystem/ECommerceSystem.csproj" />
+  <Project Path="HealthCareSystem/HealthCareSystem.csproj" />
+</Solution>
